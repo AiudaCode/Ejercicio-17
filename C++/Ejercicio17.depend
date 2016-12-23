@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1474994451 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio17\main.cpp
+	<iostream>
+	<Circulo.h>
+
+1474993939 c:\users\omarm\dropbox\codeblocks proyects\ejercicio17\include\circulo.h
+
+1474994671 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio17\src\circulo.cpp
+	"Circulo.h"
+
